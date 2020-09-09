@@ -1,0 +1,30 @@
+# github.com/armon/go-radix v1.0.0
+## explicit
+# github.com/fanyang01/radix v0.0.0-20160415095728-e1747dd9eeac
+## explicit
+github.com/fanyang01/radix
+# github.com/klauspost/compress v1.10.11
+## explicit
+github.com/klauspost/compress/flate
+# github.com/klauspost/pgzip v1.2.5
+## explicit
+github.com/klauspost/pgzip
+# github.com/spf13/pflag v1.0.5
+## explicit
+github.com/spf13/pflag
+# github.com/stretchr/testify v1.6.1
+## explicit
+# github.com/u-root/u-root v7.0.0+incompatible => github.com/bensallen/u-root v0.0.0-20200908023917-b3c793943d5b
+## explicit
+github.com/u-root/u-root/pkg/kmodule
+# github.com/ulikunitz/xz v0.5.8
+## explicit
+github.com/ulikunitz/xz
+github.com/ulikunitz/xz/internal/hash
+github.com/ulikunitz/xz/internal/xlog
+github.com/ulikunitz/xz/lzma
+# golang.org/x/sys v0.0.0-20200905004654-be1d3432aa8f
+## explicit
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/unix
+# github.com/u-root/u-root => github.com/bensallen/u-root v0.0.0-20200908023917-b3c793943d5b
